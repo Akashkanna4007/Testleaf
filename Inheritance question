@@ -1,0 +1,31 @@
+1.What is inheritance?
+Is the Mechanism of acqusing all the properties  and behaviour of one class to another .
+
+2.What are the types of inheritance
+       *single inheritance
+       *multiple inheritance
+       *multilevel inheritance
+
+3.What are the advantages in inheritance?
+       *Code reuseability
+       *Easier maintanence
+       *Effective Memory Management
+  
+4.example for selenium 
+   Selenium is an open source automation tool.
+
+    * ChromeDriver extends ChromiumDriver
+    * ChromiumDriver extends RemoteWebDriver
+    * RemoteWebDriver implements WebDriver
+    * WebDriver extends SearchContext
+    * Interface SearchContext
+
+5.What is methodOverloading with example?
+        Signature of methods are same but the argument of the method was different.
+It is a compiler polymorphism.
+ex:syso -system.out.println();
+ 
+6.What is methodOverriding with example?
+      different class with same method name its called method overriding.
+It is a runtime polymorphism.
+ex:set file detector
