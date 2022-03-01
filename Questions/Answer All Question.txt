@@ -1,0 +1,14 @@
+
+       Answer All the Question
+1.Explain about the main method in java?
+2.What are the different  Control flow Statements available in java?
+3.What is the Difference betweeen break and continue statements?
+4.What is an Array? How will you declare an array in java?
+5.When will you get ArrayIndexOutOfBoundsException?
+6.Define the Syntax to create an object for a class.
+What are the naming conventions to be followed while creating a class, 
+method and a variable.Explain with examoles
+7.What is Variable?How will you declare a variables in java?
+8.What is String in java? Is it a Data Type?
+9.What are the different ways to create the String Object in java?
+10.What is the Difference between .Equals and ==? 
