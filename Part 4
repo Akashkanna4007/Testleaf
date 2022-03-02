@@ -1,6 +1,6 @@
 SELENIUM : SELENIUM IS A OPENSOURCE TOOL THAT AUTOMATES WEB BROWSERS LIKE CHROME , FIREFOX ETC,... MAINLY USED FOR TESTING . IT ALLOWS YOU TO WRITE TEST SCRIPTS USING PREFERRED PROGRAMMING LANGUAGES LIKE JAVA PYTHON C++ ETC... THE FOUR MAJOR COMPONENTS OF SELENIUM ARE 1.SELENIUM IDE 2.SELENIUM RC 3.SELENIUM WEBDRIVERS 4.SELENIUM GRID. SELENIUM WEBDRIVERS ARE USED FOR CROSS BROWSER TESTING I.E., TO CHECK WEB BASED APPLICATIONS WORKS EXPECTEDLY OR NOT.
 selenium communicate with the web browser directly through drivers. these drivers accepts comands directly from selenium and executes them in the browser.
-1.id 2.class name 3.value 4.tagname 5.text 6.partial link text 7.xpath
+1.id 2.class name  3.tagname 4.linktext 5.partial link text 6.Css Selector 7.xpath
 1.ID's are fast and easy in locationg and they are uniquer 2.X-path changes in diffrent browser, it may vary from browser to browser sometimes 3.x-path is based on the components of DOM if  DOM changes the x-path also changes.
 first we have to create a object to the dropdown, then you can call the desired option by the locator "linktext" using the "select" method.
 Absolute path contains the entire root of the element i.e., it orginates from the begining of the xpath to desired location whereas relative xpath locates by referancing the previous or upcoming location or doesnt contqain the entire root
